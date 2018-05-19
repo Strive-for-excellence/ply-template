@@ -18,6 +18,6 @@ xelatex -shell-escape ply-template.tex
 
 ### Online
 1. Download zip of this repository
-2. Upload to [https://www.sharelatex.com][https://www.sharelatex.com]
+2. Upload to [1](https://www.sharelatex.com)  [2](https://www.sharelatex.com)
 3. Change Compiler to `XeLaTeX`
 4. Compile
